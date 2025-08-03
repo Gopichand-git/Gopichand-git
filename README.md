@@ -17,13 +17,10 @@
 
 
 ---
-
-### 🚀 About Me
-
-- 🔭 Currently working on a **Full-Stack Grocery Mobile App**  
-- 🌱 Exploring **Next.js**, **Prisma**, and **real-time systems** using **Socket.io**  
-- 💡 Love solving real-world problems through clean code and thoughtful design  
-- 🧠 Always learning: **System Architecture**, **CI/CD**, and **Performance Tuning**
+🚀 About Me
+🔭 Currently developing a robust Full-Stack Grocery Mobile App with admin panel and real-time updates
+🌱 Diving deeper into Next.js, Prisma, and building real-time systems with Socket.io
+💡 Passionate about crafting user-focused solutions through clean architecture and optimized code
 
 ---
 
@@ -33,10 +30,10 @@
 |--------|-------------|
 | 🛍️ **Grocery Mobile App** | Full-stack app with real-time updates, Stripe/Razorpay integration, and admin panel. |
 | 🏫 **College Management System** | Built using J2SE, J2EE, MySQL, HTML/CSS/JS. |
-| 💇 **Glow Grace Salon** | Modern salon app using ReactJS, TailwindCSS, and NestJS. |
+| 💇 **Glow Grace Salon** | Modern salon app using ReactJS, TailwindCSS, and NestJS, Prisma , Postgresql. |
 | 🎬 **Movie Recommender** | Emotion-based recommendation system using Python Deep Learning. |
-| 🍦 **SweetScoop Ice Cream** | Clean and responsive ReactJS frontend. |
-| 🏥 **Caretrack** | Healthcare app using Next.js, Prisma, PostgreSQL. |
+| 🍦 **SweetScoop Ice Cream** | Clean and responsive ReactJS, TailwindCSS frontend. |
+| 🏥 **Caretrack** | Healthcare app using Next.js,TailwindCSS, Prisma, PostgreSQL. |
 | 🍗 **KFC Food Ordering** | UI-focused food delivery website using frontend technologies. |
 
 ---
@@ -52,16 +49,15 @@
 
 **Backend**  
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![J2EE](https://img.shields.io/badge/-J2EE-007396?style=flat&logo=java&logoColor=white)
 ![J2SE](https://img.shields.io/badge/-J2SE-ED8B00?style=flat&logo=java&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
 **Database & ORM**  
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white)
 
 **Other Tools**  
