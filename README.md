@@ -1,9 +1,10 @@
 <table>
   <tr>
     <td>
-<h1 style="font-family: 'Segoe UI', sans-serif; font-weight: 700;">
+<h1 style="font-family: 'Times New Roman', Times, serif;">
   👋 Hi, I'm Tanuri Gopichand
 </h1>
+
 
 <h3>💻 A passionate full-stack developer crafting modern web solutions from India</h3>
 
