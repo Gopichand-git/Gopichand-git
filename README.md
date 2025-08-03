@@ -7,7 +7,8 @@
 
   </td>
   <td align="right">
-   <img src="/Chandu1.jpg" style="border-radius: 50%; width: 110px; height: 110px;" />
+   <img src="/Chandu1.jpg" style="width: 110px; border-radius: 50%;" />
+
   </td>
   </tr>
 </table>
