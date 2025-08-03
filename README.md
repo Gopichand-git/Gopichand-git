@@ -7,11 +7,11 @@
 
   </td>
   <td align="right">
-   <img src="/Chandu1.jpg" style="width: 110px; border-radius: 50%;" />
-
+    <img src="/Chandu1.jpg" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;" />
   </td>
   </tr>
 </table>
+
 
 ---
 
