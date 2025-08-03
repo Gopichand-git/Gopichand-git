@@ -18,9 +18,10 @@
 
 ---
 🚀 About Me
-🔭 Currently developing a robust Full-Stack Grocery Mobile App with admin panel and real-time updates
-🌱 Diving deeper into Next.js, Prisma, and building real-time systems with Socket.io
-💡 Passionate about crafting user-focused solutions through clean architecture and optimized code
+- 🔭 Currently working on a **Full-Stack Grocery Mobile App**  
+- 🌱 Exploring **Next.js**, **Prisma**, and **real-time systems** using **Socket.io**  
+- 💡 Love solving real-world problems through clean code and thoughtful design  
+- 🧠 Always learning: **System Architecture**, **CI/CD**, and **Performance Tuning**
 
 ---
 
