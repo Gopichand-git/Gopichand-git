@@ -7,7 +7,7 @@
 
   </td>
   <td align="right">
-    <img src="https://avatars.githubusercontent.com/u/113341319?v=4" width="130" style="border-radius: 50%;" />
+    <img src="/5J0A7234.jpg" width="130" style="border-radius: 50%;" />
   </td>
   </tr>
 </table>
