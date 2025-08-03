@@ -7,7 +7,7 @@
 
   </td>
   <td align="center">
-    <img src="Chandu1.jpg" alt="Tanuri Gopichand" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
+    <img src="Chandu1.jpg" alt="Tanuri Gopichand" width="120"  style="border-radius: 50%; object-fit: cover;" />
   </td>
   </tr>
 </table>
