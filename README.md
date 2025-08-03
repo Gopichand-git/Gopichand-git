@@ -41,6 +41,8 @@
 
 ---
 
+---
+
 ### 🛠️ Tech Stack
 
 **Frontend**  
@@ -51,15 +53,25 @@
 **Backend**  
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![J2EE](https://img.shields.io/badge/-J2EE-007396?style=flat&logo=java&logoColor=white)
+![J2SE](https://img.shields.io/badge/-J2SE-ED8B00?style=flat&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
 **Database & ORM**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white)
 
 **Other Tools**  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![SDLC](https://img.shields.io/badge/-SDLC-000000?style=flat&logo=checkmarx&logoColor=white)
+
 
 ---
 
