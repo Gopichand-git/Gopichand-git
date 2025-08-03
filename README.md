@@ -2,12 +2,12 @@
   <tr>
     <td>
 
-# 👋 Hi, I'm Tanuri Gopichand  
-### 💻 A passionate full-stack developer crafting modern web solutions from India
+<h1>👋 Hi, I'm Tanuri Gopichand</h1>
+<h3>💻 A passionate full-stack developer crafting modern web solutions from India</h3>
 
   </td>
-  <td align="right">
-    <img src="/Chandu1.jpg" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;" />
+  <td align="center">
+    <img src="Chandu1.jpg" alt="Tanuri Gopichand" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
   </td>
   </tr>
 </table>
