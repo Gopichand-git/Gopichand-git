@@ -2,7 +2,7 @@
   <tr>
     <td>
 <h1 style="font-family: 'Times New Roman', Times, serif;">
-  👋 Hi, I'm Tanuri Gopichand
+  👨‍💻 Hi, I'm Tanuri Gopichand
 </h1>
 
 
