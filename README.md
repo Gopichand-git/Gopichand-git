@@ -1,19 +1,11 @@
-<table>
-  <tr>
-    <td>
-<h1 style="font-family: 'Times New Roman', Times, serif;">
-  👨‍💻 Hi, I'm Tanuri Gopichand
-</h1>
+<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">👨‍💻 Hi, I'm Tanuri Gopichand</h1>
 
+<p align="center">
+  <img src="Chandu1.jpg" alt="Tanuri Gopichand" width="120" style="border-radius: 50%; object-fit: cover;" />
+</p>
 
-<h3>💻 A passionate full-stack developer crafting modern web solutions from India</h3>
+<h3 align="center">💻 A passionate full-stack developer crafting modern web solutions from India</h3>
 
-  </td>
-  <td align="center">
-    <img src="Chandu1.jpg" alt="Tanuri Gopichand" width="120"  style="border-radius: 50%; object-fit: cover;" />
-  </td>
-  </tr>
-</table>
 
 
 ---
