@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">👨‍💻 Hi, I'm Tanuri Gopichand</h1>
 
 <p align="center">
-  <img src="Chandu1.jpg" alt="Tanuri Gopichand" width="120" style="border-radius: 50%; object-fit: cover;" />
+  <img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981e" alt="Tanuri Gopichand" width="120" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
 <h3 align="center">💻 Full-stack developer dedicated to building sleek, scalable web applications from India</h3>
