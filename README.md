@@ -9,7 +9,7 @@
 
 
 ---
-<h1>🚀 About Me</h1>
+🚀 About Me
 - 🔭 Currently working on a **Full-Stack Grocery Mobile App**  
 - 🌱 Exploring **Next.js**, **Prisma**, and **real-time systems** using **Socket.io**  
 - 💡 Love solving real-world problems through clean code and thoughtful design  
