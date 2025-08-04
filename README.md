@@ -4,7 +4,7 @@
   <img src="Chandu1.jpg" alt="Tanuri Gopichand" width="120" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
-<h3 align="center">💻 A passionate full-stack developer crafting modern web solutions from India</h3>
+<h3 align="center">💻 Full-stack developer dedicated to building sleek, scalable web applications from India</h3>
 
 
 
